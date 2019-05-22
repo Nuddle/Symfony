@@ -1,0 +1,6 @@
+easy_admin:
+    entities:
+        - App\Entity\Attack
+        - App\Entity\Pokemon
+        - App\Entity\Potion
+        - App\Entity\Trainer
